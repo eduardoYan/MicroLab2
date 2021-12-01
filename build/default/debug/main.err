@@ -1,0 +1,4 @@
+Warning[205] C:\USERS\EYANN\DOWNLOADS\EDUARDOYANLAB1.X\MAIN.ASM 20 : Found directive in column 1. (UDATA)
+Warning[207] C:\USERS\EYANN\DOWNLOADS\EDUARDOYANLAB1.X\MAIN.ASM 21 : Found label after column 1. (DELAY)
+Message[302] C:\USERS\EYANN\DOWNLOADS\EDUARDOYANLAB1.X\MAIN.ASM 29 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Message[302] C:\USERS\EYANN\DOWNLOADS\EDUARDOYANLAB1.X\MAIN.ASM 31 : Register in operand not in bank 0.  Ensure that bank bits are correct.
